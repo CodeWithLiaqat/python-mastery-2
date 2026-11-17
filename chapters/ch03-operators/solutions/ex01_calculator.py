@@ -1,0 +1,10 @@
+# file: solutions/ex01_calculator.py
+a = int(input("Pehla number: "))
+b = int(input("Doosra number: "))
+print(f"+ : {a + b}")
+print(f"- : {a - b}")
+print(f"* : {a * b}")
+print(f"/ : {a / b:.2f}")
+print(f"//: {a // b}")
+print(f"% : {a % b}")
+print(f"**: {a ** b}")
