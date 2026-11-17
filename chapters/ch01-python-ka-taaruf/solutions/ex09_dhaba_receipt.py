@@ -1,0 +1,10 @@
+# Exercise 9 (Mushkil): Chai dhaba ki receipt
+# Order: 3 chai (80 PKR each), 2 paratha (60 PKR each), 1 omelette (150 PKR)
+print("===== Bismillah Chai Dhaba =====")
+print("Chai     x3 :", 3 * 80, "PKR")
+print("Paratha  x2 :", 2 * 60, "PKR")
+print("Omelette x1 :", 1 * 150, "PKR")
+print("--------------------------------")
+print("Kul Bill    :", 3 * 80 + 2 * 60 + 1 * 150, "PKR")
+print("================================")
+print("Dobara tashreef laiyega!")
